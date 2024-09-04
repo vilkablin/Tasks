@@ -1,0 +1,13 @@
+.square{
+  height: 50px;
+  width: 50px;
+  background: red;
+}
+
+.hide{
+  opacity: 0;
+}
+
+.green {
+  background: green;
+}
